@@ -1,0 +1,2616 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-11-13T18:58:39.428-08:00
+  initializedAtString: 2020-11-13T18:58:30.835-08:00
+  entries:
+  - path: Game\Assembly-CSharp.csproj
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assembly-CSharp-Editor.csproj
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assembly-CSharp-firstpass.csproj
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Characters\Enemies\Insect\Insect_Controller.controller
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\Insect\Insect_Controller.controller
+    projectPath: Assets\Characters\Enemies\Insect\Insect_Controller.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Characters\Enemies\LB3D.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D.meta
+    projectPath: Assets\Characters\Enemies\LB3D.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\DOCUMENTATION.txt
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\DOCUMENTATION.txt
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\DOCUMENTATION.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\DOCUMENTATION.txt.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\DOCUMENTATION.txt.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\DOCUMENTATION.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\GameManager.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\GameManager.cs
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\GameManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\GameManager.cs.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\GameManager.cs.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\GameManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Plane.mat
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Plane.mat
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Plane.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Plane.mat.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Plane.mat.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Plane.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon.mat
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon.mat
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon.mat.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon.mat.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon-eyes.mat
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon-eyes.mat
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon-eyes.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon-eyes.mat.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon-eyes.mat.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Materials\Rikayon-eyes.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\crab-monster.fbx
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\crab-monster.fbx
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Models\crab-monster.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\crab-monster.fbx.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\crab-monster.fbx.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Models\crab-monster.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials\Eyes.mat
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials\Eyes.mat
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials\Eyes.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials\Eyes.mat.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials\Eyes.mat.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Models\Materials\Eyes.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs\CrabMonster.prefab
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs\CrabMonster.prefab
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs\CrabMonster.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs\CrabMonster.prefab.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs\CrabMonster.prefab.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Prefabs\CrabMonster.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Rikayon.controller
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Rikayon.controller
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Rikayon.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Rikayon.controller.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Rikayon.controller.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Rikayon.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\backdrop.fbx
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\backdrop.fbx
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\backdrop.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\backdrop.fbx.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\backdrop.fbx.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\backdrop.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\example.unity
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\example.unity
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\example.unity.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\example.unity.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials\Material.mat
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials\Material.mat
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials\Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials\Material.mat.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials\Material.mat.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Materials\Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures\lb3d-logo-bright.png
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures\lb3d-logo-bright.png
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures\lb3d-logo-bright.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures\lb3d-logo-bright.png.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures\lb3d-logo-bright.png.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\Textures\lb3d-logo-bright.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.png
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.png
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.png.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.png.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.psd
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.psd
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.psd.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.psd.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scenes\watermark.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scripts.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scripts.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scripts\Rikayon.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scripts\Rikayon.cs
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scripts\Rikayon.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scripts\Rikayon.cs.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Scripts\Rikayon.cs.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Scripts\Rikayon.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\colormap.tga
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\colormap.tga
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\colormap.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\colormap.tga.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\colormap.tga.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\colormap.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\normalmap.tga
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\normalmap.tga
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\normalmap.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\normalmap.tga.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\normalmap.tga.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\normalmap.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\saomap.tga
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\saomap.tga
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\saomap.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\saomap.tga.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\saomap.tga.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\saomap.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.psd
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.psd
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.psd.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.psd.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.tga
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.tga
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.tga.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.tga.meta
+    projectPath: Assets\Characters\Enemies\LB3D\CrabMonster\Textures\specmap.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Characters\MainCharacter\Controllers\FreeHandController.controller
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Characters\MainCharacter\Controllers\FreeHandController.controller
+    projectPath: Assets\Characters\MainCharacter\Controllers\FreeHandController.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Prefabs\BattleScene\Enemy.prefab
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Prefabs\BattleScene\Enemy.prefab
+    projectPath: Assets\Prefabs\BattleScene\Enemy.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Scripts\BattleSystem\BattleSystem.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Scripts\BattleSystem\BattleSystem.cs
+    projectPath: Assets\Scripts\BattleSystem\BattleSystem.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Scripts\Enemy\AIController.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Scripts\Enemy\AIController.cs
+    projectPath: Assets\Scripts\Enemy\AIController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Scripts\InsectUnit.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Scripts\InsectUnit.cs
+    projectPath: Assets\Scripts\InsectUnit.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Scripts\InsectUnit.cs.meta
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Scripts\InsectUnit.cs.meta
+    projectPath: Assets\Scripts\InsectUnit.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Assets\Scripts\Player\PlayerStats.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Scripts\Player\PlayerStats.cs
+    projectPath: Assets\Scripts\Player\PlayerStats.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\Scripts\Unit.cs
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\Scripts\Unit.cs
+    projectPath: Assets\Scripts\Unit.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Assets\TutorialLevel.unity
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Assets\TutorialLevel.unity
+    projectPath: Assets\TutorialLevel.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Game.sln
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Game.sln
+    projectPath: Game.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ArtifactDB
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\Artifacts\00\0014244928d021c791a9102ed17e00f8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\00\0014244928d021c791a9102ed17e00f8
+    projectPath: Library\Artifacts\00\0014244928d021c791a9102ed17e00f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\01\01060dab47df91e2857db212abbe6f0a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\01\01060dab47df91e2857db212abbe6f0a
+    projectPath: Library\Artifacts\01\01060dab47df91e2857db212abbe6f0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\02\02a2cddf3b2ad7d1d8e45979e4cd9900
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\02\02a2cddf3b2ad7d1d8e45979e4cd9900
+    projectPath: Library\Artifacts\02\02a2cddf3b2ad7d1d8e45979e4cd9900
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\03\03ed9a70581cdcd8f4de7550ddb6bb0f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\03\03ed9a70581cdcd8f4de7550ddb6bb0f
+    projectPath: Library\Artifacts\03\03ed9a70581cdcd8f4de7550ddb6bb0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\06\068698e6e2392e816fd026aea9365281
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\06\068698e6e2392e816fd026aea9365281
+    projectPath: Library\Artifacts\06\068698e6e2392e816fd026aea9365281
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\07\07225279e328e9ccfc532029fdd22d7b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\07\07225279e328e9ccfc532029fdd22d7b
+    projectPath: Library\Artifacts\07\07225279e328e9ccfc532029fdd22d7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\0a\0a3d0fd3dfb781b60276bb2b0a625d20
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\0a\0a3d0fd3dfb781b60276bb2b0a625d20
+    projectPath: Library\Artifacts\0a\0a3d0fd3dfb781b60276bb2b0a625d20
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\0a\0af3ea4e430f5ddaf136f3ed7ce6630c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\0a\0af3ea4e430f5ddaf136f3ed7ce6630c
+    projectPath: Library\Artifacts\0a\0af3ea4e430f5ddaf136f3ed7ce6630c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\0c\0c62efd0f0eccde6e752ac6f3c4f70dd
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\0c\0c62efd0f0eccde6e752ac6f3c4f70dd
+    projectPath: Library\Artifacts\0c\0c62efd0f0eccde6e752ac6f3c4f70dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\0e\0e0d447aee260f802a3828c794567358
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\0e\0e0d447aee260f802a3828c794567358
+    projectPath: Library\Artifacts\0e\0e0d447aee260f802a3828c794567358
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\0f\0f3b9c535cd541e29b25aa660ede04d4
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\0f\0f3b9c535cd541e29b25aa660ede04d4
+    projectPath: Library\Artifacts\0f\0f3b9c535cd541e29b25aa660ede04d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\12\1228c501ff09dce41e0c208d7eb13b8b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\12\1228c501ff09dce41e0c208d7eb13b8b
+    projectPath: Library\Artifacts\12\1228c501ff09dce41e0c208d7eb13b8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\13\13bf59ea01346eeedfd9791a571a9042
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\13\13bf59ea01346eeedfd9791a571a9042
+    projectPath: Library\Artifacts\13\13bf59ea01346eeedfd9791a571a9042
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\14\1448d91e4d10afc6a1e0003292231b09
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\14\1448d91e4d10afc6a1e0003292231b09
+    projectPath: Library\Artifacts\14\1448d91e4d10afc6a1e0003292231b09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\15\153e7610ee776eef7e3779e51bcb47d5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\15\153e7610ee776eef7e3779e51bcb47d5
+    projectPath: Library\Artifacts\15\153e7610ee776eef7e3779e51bcb47d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\16\1639221afd17eedd2541b0150331de3e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\16\1639221afd17eedd2541b0150331de3e
+    projectPath: Library\Artifacts\16\1639221afd17eedd2541b0150331de3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\17\171f18f330aef49da9987e893701be52
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\17\171f18f330aef49da9987e893701be52
+    projectPath: Library\Artifacts\17\171f18f330aef49da9987e893701be52
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\17\174c54bcff355404dfcf68122cf5cf37
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\17\174c54bcff355404dfcf68122cf5cf37
+    projectPath: Library\Artifacts\17\174c54bcff355404dfcf68122cf5cf37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\17\179d4887c332d78f7c4e42dabe8d189a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\17\179d4887c332d78f7c4e42dabe8d189a
+    projectPath: Library\Artifacts\17\179d4887c332d78f7c4e42dabe8d189a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\18\188d6eeb4a21df40275c68a839816c3e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\18\188d6eeb4a21df40275c68a839816c3e
+    projectPath: Library\Artifacts\18\188d6eeb4a21df40275c68a839816c3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1a\1a52d915d588cdbae9be27c77c32b557
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1a\1a52d915d588cdbae9be27c77c32b557
+    projectPath: Library\Artifacts\1a\1a52d915d588cdbae9be27c77c32b557
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\1a\1a9a3d74a5fbc0428701d0514cbf0ee0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1a\1a9a3d74a5fbc0428701d0514cbf0ee0
+    projectPath: Library\Artifacts\1a\1a9a3d74a5fbc0428701d0514cbf0ee0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1b\1b27748c76d5b5b4f286baf0c6424189
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1b\1b27748c76d5b5b4f286baf0c6424189
+    projectPath: Library\Artifacts\1b\1b27748c76d5b5b4f286baf0c6424189
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1b\1bed811bf94105a32b616e7093c19b54
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1b\1bed811bf94105a32b616e7093c19b54
+    projectPath: Library\Artifacts\1b\1bed811bf94105a32b616e7093c19b54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1c\1c45488ebe3009dc27f60bb01a385bd5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1c\1c45488ebe3009dc27f60bb01a385bd5
+    projectPath: Library\Artifacts\1c\1c45488ebe3009dc27f60bb01a385bd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\1d\1d361f47d5e33ced9ada57fc895eb893
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1d\1d361f47d5e33ced9ada57fc895eb893
+    projectPath: Library\Artifacts\1d\1d361f47d5e33ced9ada57fc895eb893
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    projectPath: Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\1e\1ec59798fc4beaad5231cb31367dea58
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1e\1ec59798fc4beaad5231cb31367dea58
+    projectPath: Library\Artifacts\1e\1ec59798fc4beaad5231cb31367dea58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1f\1f3901233d08999dce3e9c67e5ddfb8d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1f\1f3901233d08999dce3e9c67e5ddfb8d
+    projectPath: Library\Artifacts\1f\1f3901233d08999dce3e9c67e5ddfb8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1f\1f43fd2da3a1505a1a7a874b083e67a8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1f\1f43fd2da3a1505a1a7a874b083e67a8
+    projectPath: Library\Artifacts\1f\1f43fd2da3a1505a1a7a874b083e67a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\1f\1fe3a5bcecce43e345198339274e5257
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\1f\1fe3a5bcecce43e345198339274e5257
+    projectPath: Library\Artifacts\1f\1fe3a5bcecce43e345198339274e5257
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\20\20afe3df3b1517e56f85238aeb853393
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\20\20afe3df3b1517e56f85238aeb853393
+    projectPath: Library\Artifacts\20\20afe3df3b1517e56f85238aeb853393
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\21\21f9643f11658ae20a22272f970093a1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\21\21f9643f11658ae20a22272f970093a1
+    projectPath: Library\Artifacts\21\21f9643f11658ae20a22272f970093a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\22\22962079a35a4fba6cefe75469c1ca41
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\22\22962079a35a4fba6cefe75469c1ca41
+    projectPath: Library\Artifacts\22\22962079a35a4fba6cefe75469c1ca41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\22\229dba6c90c37237cf29c856c0bc4dff
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\22\229dba6c90c37237cf29c856c0bc4dff
+    projectPath: Library\Artifacts\22\229dba6c90c37237cf29c856c0bc4dff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\22\22b096bd3d847f7467c2e694c1980887
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\22\22b096bd3d847f7467c2e694c1980887
+    projectPath: Library\Artifacts\22\22b096bd3d847f7467c2e694c1980887
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\25\257ae0bd64c058b9f43b1e48f75f0bf5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\25\257ae0bd64c058b9f43b1e48f75f0bf5
+    projectPath: Library\Artifacts\25\257ae0bd64c058b9f43b1e48f75f0bf5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\25\25d534e932f524a20ee7ae563c543b05
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\25\25d534e932f524a20ee7ae563c543b05
+    projectPath: Library\Artifacts\25\25d534e932f524a20ee7ae563c543b05
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\26\260b0ccd1547347cbd2e6be94ae34e9c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\26\260b0ccd1547347cbd2e6be94ae34e9c
+    projectPath: Library\Artifacts\26\260b0ccd1547347cbd2e6be94ae34e9c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\27\271a900216896b3029249ad40f0b27f1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\27\271a900216896b3029249ad40f0b27f1
+    projectPath: Library\Artifacts\27\271a900216896b3029249ad40f0b27f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\27\2744c59aa2dbe2d09dda6576e59c8083
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\27\2744c59aa2dbe2d09dda6576e59c8083
+    projectPath: Library\Artifacts\27\2744c59aa2dbe2d09dda6576e59c8083
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\27\27d19d204e76938935820df323fc2f47
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\27\27d19d204e76938935820df323fc2f47
+    projectPath: Library\Artifacts\27\27d19d204e76938935820df323fc2f47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\27\27fd21bad66615dfbef9c55b1a46ec4b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\27\27fd21bad66615dfbef9c55b1a46ec4b
+    projectPath: Library\Artifacts\27\27fd21bad66615dfbef9c55b1a46ec4b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\28\280b929358683653cae7c20aaa11f06c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\28\280b929358683653cae7c20aaa11f06c
+    projectPath: Library\Artifacts\28\280b929358683653cae7c20aaa11f06c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\28\28c0dad4d37de55b53ee22d998f1d9ff
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\28\28c0dad4d37de55b53ee22d998f1d9ff
+    projectPath: Library\Artifacts\28\28c0dad4d37de55b53ee22d998f1d9ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\29\29bccd8c960dfd8233a498925e139c5b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\29\29bccd8c960dfd8233a498925e139c5b
+    projectPath: Library\Artifacts\29\29bccd8c960dfd8233a498925e139c5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2a\2a30350c7a6ebccf0ae0c18cabcb65b0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2a\2a30350c7a6ebccf0ae0c18cabcb65b0
+    projectPath: Library\Artifacts\2a\2a30350c7a6ebccf0ae0c18cabcb65b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2a\2a37e4af6d6205a2879676951239a65f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2a\2a37e4af6d6205a2879676951239a65f
+    projectPath: Library\Artifacts\2a\2a37e4af6d6205a2879676951239a65f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2a\2ac8dcfbe1aa5bb30387850ad9c1d27b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2a\2ac8dcfbe1aa5bb30387850ad9c1d27b
+    projectPath: Library\Artifacts\2a\2ac8dcfbe1aa5bb30387850ad9c1d27b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\2a\2acc7b6310d9ed3d2348db48c759b700
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2a\2acc7b6310d9ed3d2348db48c759b700
+    projectPath: Library\Artifacts\2a\2acc7b6310d9ed3d2348db48c759b700
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2a\2addb17c152eb11bfd7e27a5a9a7da21
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2a\2addb17c152eb11bfd7e27a5a9a7da21
+    projectPath: Library\Artifacts\2a\2addb17c152eb11bfd7e27a5a9a7da21
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2a\2ae930704fd9ca78c7c03d4e4d080865
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2a\2ae930704fd9ca78c7c03d4e4d080865
+    projectPath: Library\Artifacts\2a\2ae930704fd9ca78c7c03d4e4d080865
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2b\2bcbe7aca318ee06108d1a208ef7c0fc
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2b\2bcbe7aca318ee06108d1a208ef7c0fc
+    projectPath: Library\Artifacts\2b\2bcbe7aca318ee06108d1a208ef7c0fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\2d\2d01d7f28e1759851e01f88786b101c6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2d\2d01d7f28e1759851e01f88786b101c6
+    projectPath: Library\Artifacts\2d\2d01d7f28e1759851e01f88786b101c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2d\2d162a8b4f9f8705fc7f04545cff4f79
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2d\2d162a8b4f9f8705fc7f04545cff4f79
+    projectPath: Library\Artifacts\2d\2d162a8b4f9f8705fc7f04545cff4f79
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\2d\2da0d00447b4f91ab18c5f7e4e39fda8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\2d\2da0d00447b4f91ab18c5f7e4e39fda8
+    projectPath: Library\Artifacts\2d\2da0d00447b4f91ab18c5f7e4e39fda8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\30\30225f4672542587e6a4d92f5fe2cfa6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\30\30225f4672542587e6a4d92f5fe2cfa6
+    projectPath: Library\Artifacts\30\30225f4672542587e6a4d92f5fe2cfa6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\30\30893adfca061d4dc6ac57a47ea41382
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\30\30893adfca061d4dc6ac57a47ea41382
+    projectPath: Library\Artifacts\30\30893adfca061d4dc6ac57a47ea41382
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\30\3095b2c63deeb60199fc0ab4f7557f7e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\30\3095b2c63deeb60199fc0ab4f7557f7e
+    projectPath: Library\Artifacts\30\3095b2c63deeb60199fc0ab4f7557f7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\30\30e2da8950059b0250011c9c72536b3a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\30\30e2da8950059b0250011c9c72536b3a
+    projectPath: Library\Artifacts\30\30e2da8950059b0250011c9c72536b3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\31\31410f9deb744f76226f4d380a00da23
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\31\31410f9deb744f76226f4d380a00da23
+    projectPath: Library\Artifacts\31\31410f9deb744f76226f4d380a00da23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\34\3414aa1461fa641af209b9cd9fc049bb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\34\3414aa1461fa641af209b9cd9fc049bb
+    projectPath: Library\Artifacts\34\3414aa1461fa641af209b9cd9fc049bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\35\354348c50b341846ebde5151fa9f9684
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\35\354348c50b341846ebde5151fa9f9684
+    projectPath: Library\Artifacts\35\354348c50b341846ebde5151fa9f9684
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\35\358c00df56004c4399b31b213c9b479b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\35\358c00df56004c4399b31b213c9b479b
+    projectPath: Library\Artifacts\35\358c00df56004c4399b31b213c9b479b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\36\36a8f16eaeb8398edf7e88b5ffdcbf54
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\36\36a8f16eaeb8398edf7e88b5ffdcbf54
+    projectPath: Library\Artifacts\36\36a8f16eaeb8398edf7e88b5ffdcbf54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\37\3787d8e96fd3d00e5a17cbef5339c2e6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\37\3787d8e96fd3d00e5a17cbef5339c2e6
+    projectPath: Library\Artifacts\37\3787d8e96fd3d00e5a17cbef5339c2e6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\38\384debb1225d09dca93a8f3a763869aa
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\38\384debb1225d09dca93a8f3a763869aa
+    projectPath: Library\Artifacts\38\384debb1225d09dca93a8f3a763869aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\38\38d9e47116e04edc02b65046b1fbb200
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\38\38d9e47116e04edc02b65046b1fbb200
+    projectPath: Library\Artifacts\38\38d9e47116e04edc02b65046b1fbb200
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\38\38dc3f56e930761fb6347e8cb4bc1b89
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\38\38dc3f56e930761fb6347e8cb4bc1b89
+    projectPath: Library\Artifacts\38\38dc3f56e930761fb6347e8cb4bc1b89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\39\3990620dfbf3fc2816a5a21ec10d004d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\39\3990620dfbf3fc2816a5a21ec10d004d
+    projectPath: Library\Artifacts\39\3990620dfbf3fc2816a5a21ec10d004d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\3a\3a0c73a39ec1d47ae035a8c35825715f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3a\3a0c73a39ec1d47ae035a8c35825715f
+    projectPath: Library\Artifacts\3a\3a0c73a39ec1d47ae035a8c35825715f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\3a\3a923b31d69b0950240bb782e782cd14
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3a\3a923b31d69b0950240bb782e782cd14
+    projectPath: Library\Artifacts\3a\3a923b31d69b0950240bb782e782cd14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\3a\3acc7fa9e5b9b9535cf5369817cde0f5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3a\3acc7fa9e5b9b9535cf5369817cde0f5
+    projectPath: Library\Artifacts\3a\3acc7fa9e5b9b9535cf5369817cde0f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\3b\3b49deb8e1428bbcb9dcef10a73de3b1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3b\3b49deb8e1428bbcb9dcef10a73de3b1
+    projectPath: Library\Artifacts\3b\3b49deb8e1428bbcb9dcef10a73de3b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\3e\3e95697732d858b457eb3130cdd1778b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3e\3e95697732d858b457eb3130cdd1778b
+    projectPath: Library\Artifacts\3e\3e95697732d858b457eb3130cdd1778b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\3f\3f4bc1bfc509dd3d2957c222b31b6806
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3f\3f4bc1bfc509dd3d2957c222b31b6806
+    projectPath: Library\Artifacts\3f\3f4bc1bfc509dd3d2957c222b31b6806
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\3f\3fe7ad64384e915dc38de8cc3d99b050
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\3f\3fe7ad64384e915dc38de8cc3d99b050
+    projectPath: Library\Artifacts\3f\3fe7ad64384e915dc38de8cc3d99b050
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\40\40281023fb939654365f844d770e174a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\40\40281023fb939654365f844d770e174a
+    projectPath: Library\Artifacts\40\40281023fb939654365f844d770e174a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\41\4143bfe9bef47bb6457c7bbbaf242416
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\41\4143bfe9bef47bb6457c7bbbaf242416
+    projectPath: Library\Artifacts\41\4143bfe9bef47bb6457c7bbbaf242416
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\41\41eedaf4c8966071edca50fdcdb64ce6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\41\41eedaf4c8966071edca50fdcdb64ce6
+    projectPath: Library\Artifacts\41\41eedaf4c8966071edca50fdcdb64ce6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\42\42531d7ceda33f68887495acbf77b03c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\42\42531d7ceda33f68887495acbf77b03c
+    projectPath: Library\Artifacts\42\42531d7ceda33f68887495acbf77b03c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\42\42a64dc3bf3b223ac32bcd0a33a9ebfc
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\42\42a64dc3bf3b223ac32bcd0a33a9ebfc
+    projectPath: Library\Artifacts\42\42a64dc3bf3b223ac32bcd0a33a9ebfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\43\43be40e5f80a74597209c970ae9f041a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\43\43be40e5f80a74597209c970ae9f041a
+    projectPath: Library\Artifacts\43\43be40e5f80a74597209c970ae9f041a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\44\44fdd550d81a233e300bc9e1a25b7c08
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\44\44fdd550d81a233e300bc9e1a25b7c08
+    projectPath: Library\Artifacts\44\44fdd550d81a233e300bc9e1a25b7c08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\45\456c66764f005bf89ae4af6e2be03eec
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\45\456c66764f005bf89ae4af6e2be03eec
+    projectPath: Library\Artifacts\45\456c66764f005bf89ae4af6e2be03eec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\45\45786217da0cbf8b3e44b227501b2108
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\45\45786217da0cbf8b3e44b227501b2108
+    projectPath: Library\Artifacts\45\45786217da0cbf8b3e44b227501b2108
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\47\47285007c54f08008561da4a229bacba
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\47\47285007c54f08008561da4a229bacba
+    projectPath: Library\Artifacts\47\47285007c54f08008561da4a229bacba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\47\472c305b109e3a11f6f1a0cbf93f466d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\47\472c305b109e3a11f6f1a0cbf93f466d
+    projectPath: Library\Artifacts\47\472c305b109e3a11f6f1a0cbf93f466d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\47\4734ead5ff3826e761afed84f92fe102
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\47\4734ead5ff3826e761afed84f92fe102
+    projectPath: Library\Artifacts\47\4734ead5ff3826e761afed84f92fe102
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\47\4772d16b53652ab7d7fb1493c7762006
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\47\4772d16b53652ab7d7fb1493c7762006
+    projectPath: Library\Artifacts\47\4772d16b53652ab7d7fb1493c7762006
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\48\48bb3ce723740722324cb3247b03e57f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\48\48bb3ce723740722324cb3247b03e57f
+    projectPath: Library\Artifacts\48\48bb3ce723740722324cb3247b03e57f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\49\49d72abdadedcb416181916462f70848
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\49\49d72abdadedcb416181916462f70848
+    projectPath: Library\Artifacts\49\49d72abdadedcb416181916462f70848
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\49\49d94494fd07aaa3c3e1b35af01b56bb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\49\49d94494fd07aaa3c3e1b35af01b56bb
+    projectPath: Library\Artifacts\49\49d94494fd07aaa3c3e1b35af01b56bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4b\4b1f8a813a810e2deefd12cd582bb6d0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4b\4b1f8a813a810e2deefd12cd582bb6d0
+    projectPath: Library\Artifacts\4b\4b1f8a813a810e2deefd12cd582bb6d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4b\4b2af67b802389cc8222cb85e6944ab0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4b\4b2af67b802389cc8222cb85e6944ab0
+    projectPath: Library\Artifacts\4b\4b2af67b802389cc8222cb85e6944ab0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4b\4b999cd8f92ec94ca5d619fb81c734cc
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4b\4b999cd8f92ec94ca5d619fb81c734cc
+    projectPath: Library\Artifacts\4b\4b999cd8f92ec94ca5d619fb81c734cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\4b\4bd51eb1f8fe14dd8c5c8b5311de0d23
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4b\4bd51eb1f8fe14dd8c5c8b5311de0d23
+    projectPath: Library\Artifacts\4b\4bd51eb1f8fe14dd8c5c8b5311de0d23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\4d\4d4cb5d5a26201f52a657029bc436d26
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4d\4d4cb5d5a26201f52a657029bc436d26
+    projectPath: Library\Artifacts\4d\4d4cb5d5a26201f52a657029bc436d26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\4d\4d7e01dceed9e8427e34df7ae6e754af
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4d\4d7e01dceed9e8427e34df7ae6e754af
+    projectPath: Library\Artifacts\4d\4d7e01dceed9e8427e34df7ae6e754af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4d\4d947ec1485e184d03610bcfb1b8c865
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4d\4d947ec1485e184d03610bcfb1b8c865
+    projectPath: Library\Artifacts\4d\4d947ec1485e184d03610bcfb1b8c865
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4e\4e0703274b429531374a483ea028daa0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4e\4e0703274b429531374a483ea028daa0
+    projectPath: Library\Artifacts\4e\4e0703274b429531374a483ea028daa0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4f\4f9195bea5f63f0482bb91302cc636eb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4f\4f9195bea5f63f0482bb91302cc636eb
+    projectPath: Library\Artifacts\4f\4f9195bea5f63f0482bb91302cc636eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\4f\4fb0f1721aa7b60a60fd05c883f1235c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\4f\4fb0f1721aa7b60a60fd05c883f1235c
+    projectPath: Library\Artifacts\4f\4fb0f1721aa7b60a60fd05c883f1235c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\50\50ba57390c8f527295241dd9b9508bb3
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\50\50ba57390c8f527295241dd9b9508bb3
+    projectPath: Library\Artifacts\50\50ba57390c8f527295241dd9b9508bb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\51\515fc2572e0b71165cbadce85f24aee8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\51\515fc2572e0b71165cbadce85f24aee8
+    projectPath: Library\Artifacts\51\515fc2572e0b71165cbadce85f24aee8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\51\516d23eaf70f627d45f119bb39c1de77
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\51\516d23eaf70f627d45f119bb39c1de77
+    projectPath: Library\Artifacts\51\516d23eaf70f627d45f119bb39c1de77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\51\51abb225c04f36b5d041a858edb4ed79
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\51\51abb225c04f36b5d041a858edb4ed79
+    projectPath: Library\Artifacts\51\51abb225c04f36b5d041a858edb4ed79
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\51\51b6e79f94de437e7b3639902dcadf2b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\51\51b6e79f94de437e7b3639902dcadf2b
+    projectPath: Library\Artifacts\51\51b6e79f94de437e7b3639902dcadf2b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\53\5318b3550e02a60e4d6b220eb0fe8736
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\53\5318b3550e02a60e4d6b220eb0fe8736
+    projectPath: Library\Artifacts\53\5318b3550e02a60e4d6b220eb0fe8736
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\53\53b79ede95c71c341a70b316a2efd3aa
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\53\53b79ede95c71c341a70b316a2efd3aa
+    projectPath: Library\Artifacts\53\53b79ede95c71c341a70b316a2efd3aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\55\5525465dbf7b4213886e0e0295f94275
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\55\5525465dbf7b4213886e0e0295f94275
+    projectPath: Library\Artifacts\55\5525465dbf7b4213886e0e0295f94275
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\55\555ce9729f07324fbe34a31e297243c8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\55\555ce9729f07324fbe34a31e297243c8
+    projectPath: Library\Artifacts\55\555ce9729f07324fbe34a31e297243c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\56\56d9f35390f1a6ddf34a132680bc0163
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\56\56d9f35390f1a6ddf34a132680bc0163
+    projectPath: Library\Artifacts\56\56d9f35390f1a6ddf34a132680bc0163
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\57\5726f05216ea87a5ab07ae038556d866
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\57\5726f05216ea87a5ab07ae038556d866
+    projectPath: Library\Artifacts\57\5726f05216ea87a5ab07ae038556d866
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\58\5888acfb35a2fa21f49852002e7dd849
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\58\5888acfb35a2fa21f49852002e7dd849
+    projectPath: Library\Artifacts\58\5888acfb35a2fa21f49852002e7dd849
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\59\593ed6a1e945948e264791d8cd684dc8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\59\593ed6a1e945948e264791d8cd684dc8
+    projectPath: Library\Artifacts\59\593ed6a1e945948e264791d8cd684dc8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\5d\5db2770b046f119683bed1e56918bae1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\5d\5db2770b046f119683bed1e56918bae1
+    projectPath: Library\Artifacts\5d\5db2770b046f119683bed1e56918bae1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\5f\5f2e4e59f6b9be098473fc1b7cac4199
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\5f\5f2e4e59f6b9be098473fc1b7cac4199
+    projectPath: Library\Artifacts\5f\5f2e4e59f6b9be098473fc1b7cac4199
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\65\65955647ab2fe0568a9998ccd4259e00
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\65\65955647ab2fe0568a9998ccd4259e00
+    projectPath: Library\Artifacts\65\65955647ab2fe0568a9998ccd4259e00
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    projectPath: Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\6a\6a043b2154b88fab3a92295f42317eac
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6a\6a043b2154b88fab3a92295f42317eac
+    projectPath: Library\Artifacts\6a\6a043b2154b88fab3a92295f42317eac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\6b\6b10206b852458baa267ca48ff447147
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6b\6b10206b852458baa267ca48ff447147
+    projectPath: Library\Artifacts\6b\6b10206b852458baa267ca48ff447147
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\6b\6b16786061cb51bd8d3e9ea9e695e90d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6b\6b16786061cb51bd8d3e9ea9e695e90d
+    projectPath: Library\Artifacts\6b\6b16786061cb51bd8d3e9ea9e695e90d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\6c\6c93a9d5483aec0509dc957c0893d892
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6c\6c93a9d5483aec0509dc957c0893d892
+    projectPath: Library\Artifacts\6c\6c93a9d5483aec0509dc957c0893d892
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\6c\6cb834eb5bbfd56cb411bff79f7c11f7
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6c\6cb834eb5bbfd56cb411bff79f7c11f7
+    projectPath: Library\Artifacts\6c\6cb834eb5bbfd56cb411bff79f7c11f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\6c\6cdff1b29749d4c913353149458a5299
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6c\6cdff1b29749d4c913353149458a5299
+    projectPath: Library\Artifacts\6c\6cdff1b29749d4c913353149458a5299
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\6d\6d7ae7b06273cfa7e1022533d1fe303a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6d\6d7ae7b06273cfa7e1022533d1fe303a
+    projectPath: Library\Artifacts\6d\6d7ae7b06273cfa7e1022533d1fe303a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\6d\6d8850b68151fb07d2039c4e7246a9ae
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6d\6d8850b68151fb07d2039c4e7246a9ae
+    projectPath: Library\Artifacts\6d\6d8850b68151fb07d2039c4e7246a9ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\6d\6dc0beb48913a0560b882da6f65b3cbf
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\6d\6dc0beb48913a0560b882da6f65b3cbf
+    projectPath: Library\Artifacts\6d\6dc0beb48913a0560b882da6f65b3cbf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\70\70809b7958afe61e8dd756cd215ba21c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\70\70809b7958afe61e8dd756cd215ba21c
+    projectPath: Library\Artifacts\70\70809b7958afe61e8dd756cd215ba21c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\72\72a95c14372860ac3b5f6e6a277a6e0d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\72\72a95c14372860ac3b5f6e6a277a6e0d
+    projectPath: Library\Artifacts\72\72a95c14372860ac3b5f6e6a277a6e0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\73\734ae151b8927fa9d2766021c8625bd1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\73\734ae151b8927fa9d2766021c8625bd1
+    projectPath: Library\Artifacts\73\734ae151b8927fa9d2766021c8625bd1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\74\74250f86d496945dbc76cae916c21f2b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\74\74250f86d496945dbc76cae916c21f2b
+    projectPath: Library\Artifacts\74\74250f86d496945dbc76cae916c21f2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\75\757b43662d1e2c7ba3a4b2def477faf2
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\75\757b43662d1e2c7ba3a4b2def477faf2
+    projectPath: Library\Artifacts\75\757b43662d1e2c7ba3a4b2def477faf2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\76\76e59177434604a103023c9e55b6b696
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\76\76e59177434604a103023c9e55b6b696
+    projectPath: Library\Artifacts\76\76e59177434604a103023c9e55b6b696
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\78\781bf3a98cba0386a8a58496209c08b4
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\78\781bf3a98cba0386a8a58496209c08b4
+    projectPath: Library\Artifacts\78\781bf3a98cba0386a8a58496209c08b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\78\78c5e5d4e579897d46457d97287578b1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\78\78c5e5d4e579897d46457d97287578b1
+    projectPath: Library\Artifacts\78\78c5e5d4e579897d46457d97287578b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\79\791677ae47b165d03adccf95bf3220b8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\79\791677ae47b165d03adccf95bf3220b8
+    projectPath: Library\Artifacts\79\791677ae47b165d03adccf95bf3220b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\79\79b7572832e16f5552200fdf6c74c5d7
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\79\79b7572832e16f5552200fdf6c74c5d7
+    projectPath: Library\Artifacts\79\79b7572832e16f5552200fdf6c74c5d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    projectPath: Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\7c\7cd02ff8ea036c5141fdf50795983b54
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\7c\7cd02ff8ea036c5141fdf50795983b54
+    projectPath: Library\Artifacts\7c\7cd02ff8ea036c5141fdf50795983b54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\7f\7f8faf8c97cbf5dde38665cd1f3a9f88
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\7f\7f8faf8c97cbf5dde38665cd1f3a9f88
+    projectPath: Library\Artifacts\7f\7f8faf8c97cbf5dde38665cd1f3a9f88
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\80\805f3934dd5adbc3a65bf6f2af9864ed
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\80\805f3934dd5adbc3a65bf6f2af9864ed
+    projectPath: Library\Artifacts\80\805f3934dd5adbc3a65bf6f2af9864ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\80\80c443f8e0072aa6f924a35520dd40fe
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\80\80c443f8e0072aa6f924a35520dd40fe
+    projectPath: Library\Artifacts\80\80c443f8e0072aa6f924a35520dd40fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\81\810776ccd8a0ebb70f8586c5ee13525a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\81\810776ccd8a0ebb70f8586c5ee13525a
+    projectPath: Library\Artifacts\81\810776ccd8a0ebb70f8586c5ee13525a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\81\8163d94f438de4538ee0ddd221532253
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\81\8163d94f438de4538ee0ddd221532253
+    projectPath: Library\Artifacts\81\8163d94f438de4538ee0ddd221532253
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\81\8199c9c87bf8ecf36c1f80fa20bcd2d4
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\81\8199c9c87bf8ecf36c1f80fa20bcd2d4
+    projectPath: Library\Artifacts\81\8199c9c87bf8ecf36c1f80fa20bcd2d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\81\81b2f7e8b708465e2a552418c7c9634c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\81\81b2f7e8b708465e2a552418c7c9634c
+    projectPath: Library\Artifacts\81\81b2f7e8b708465e2a552418c7c9634c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\81\81d178ea7fca538ca968f31cd77f6e72
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\81\81d178ea7fca538ca968f31cd77f6e72
+    projectPath: Library\Artifacts\81\81d178ea7fca538ca968f31cd77f6e72
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\83\83748acd2cbbd7d4d08c00963e82262b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\83\83748acd2cbbd7d4d08c00963e82262b
+    projectPath: Library\Artifacts\83\83748acd2cbbd7d4d08c00963e82262b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\84\8432902d6e3a5300f201d553feb9cded
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\84\8432902d6e3a5300f201d553feb9cded
+    projectPath: Library\Artifacts\84\8432902d6e3a5300f201d553feb9cded
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\84\8483d21dfdd4ea630b6b12875d998482
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\84\8483d21dfdd4ea630b6b12875d998482
+    projectPath: Library\Artifacts\84\8483d21dfdd4ea630b6b12875d998482
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\86\86cd2f1c5443664644ef6291ff3a666d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\86\86cd2f1c5443664644ef6291ff3a666d
+    projectPath: Library\Artifacts\86\86cd2f1c5443664644ef6291ff3a666d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\87\87ab51b134e9c8b112e65bf286ab71d8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\87\87ab51b134e9c8b112e65bf286ab71d8
+    projectPath: Library\Artifacts\87\87ab51b134e9c8b112e65bf286ab71d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\88\888db0448ec86f8402258da973746a18
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\88\888db0448ec86f8402258da973746a18
+    projectPath: Library\Artifacts\88\888db0448ec86f8402258da973746a18
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\88\88c56d63b543bff637c9bd640be3aea0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\88\88c56d63b543bff637c9bd640be3aea0
+    projectPath: Library\Artifacts\88\88c56d63b543bff637c9bd640be3aea0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\8a\8a0437f5e23fc65712f3fb511eddb217
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\8a\8a0437f5e23fc65712f3fb511eddb217
+    projectPath: Library\Artifacts\8a\8a0437f5e23fc65712f3fb511eddb217
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\8c\8ced5245da9055ead435babb0110cdae
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\8c\8ced5245da9055ead435babb0110cdae
+    projectPath: Library\Artifacts\8c\8ced5245da9055ead435babb0110cdae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\8e\8e9ce28a2acf0be74b284a08f64401a5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\8e\8e9ce28a2acf0be74b284a08f64401a5
+    projectPath: Library\Artifacts\8e\8e9ce28a2acf0be74b284a08f64401a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\8e\8ecdcdb9da32f32edab6106c6c162c10
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\8e\8ecdcdb9da32f32edab6106c6c162c10
+    projectPath: Library\Artifacts\8e\8ecdcdb9da32f32edab6106c6c162c10
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\8e\8eceb5cf5f49b47266707754cd497ae0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\8e\8eceb5cf5f49b47266707754cd497ae0
+    projectPath: Library\Artifacts\8e\8eceb5cf5f49b47266707754cd497ae0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\90\907997befb0f77680afa10f6f5237e3a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\90\907997befb0f77680afa10f6f5237e3a
+    projectPath: Library\Artifacts\90\907997befb0f77680afa10f6f5237e3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\91\91df2c124e4d6dba48525b2e14da1d46
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\91\91df2c124e4d6dba48525b2e14da1d46
+    projectPath: Library\Artifacts\91\91df2c124e4d6dba48525b2e14da1d46
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\94\949a576a70cd6cfbd864c2d0d901250b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\94\949a576a70cd6cfbd864c2d0d901250b
+    projectPath: Library\Artifacts\94\949a576a70cd6cfbd864c2d0d901250b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\96\963a4e2fda898adb40a6015e6fa12c4a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\96\963a4e2fda898adb40a6015e6fa12c4a
+    projectPath: Library\Artifacts\96\963a4e2fda898adb40a6015e6fa12c4a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\99\997b249294998787a4785fdefa26d0b2
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\99\997b249294998787a4785fdefa26d0b2
+    projectPath: Library\Artifacts\99\997b249294998787a4785fdefa26d0b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\9a\9a8fc150ea8473208eab285b15c50b12
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\9a\9a8fc150ea8473208eab285b15c50b12
+    projectPath: Library\Artifacts\9a\9a8fc150ea8473208eab285b15c50b12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\9b\9bd4bc41b0944acd107ba7fb3f31bc94
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\9b\9bd4bc41b0944acd107ba7fb3f31bc94
+    projectPath: Library\Artifacts\9b\9bd4bc41b0944acd107ba7fb3f31bc94
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\9d\9d0ef002809667476f8aa6a4b4c283e8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\9d\9d0ef002809667476f8aa6a4b4c283e8
+    projectPath: Library\Artifacts\9d\9d0ef002809667476f8aa6a4b4c283e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a0\a0f117dabff93c4fe9678c8b9600a86b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a0\a0f117dabff93c4fe9678c8b9600a86b
+    projectPath: Library\Artifacts\a0\a0f117dabff93c4fe9678c8b9600a86b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a2\a2cd32092335e6edec9ba030dfc2e932
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a2\a2cd32092335e6edec9ba030dfc2e932
+    projectPath: Library\Artifacts\a2\a2cd32092335e6edec9ba030dfc2e932
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\a2\a2edc5fdf33a0539fd1b4c7a07307c15
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a2\a2edc5fdf33a0539fd1b4c7a07307c15
+    projectPath: Library\Artifacts\a2\a2edc5fdf33a0539fd1b4c7a07307c15
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a4\a415b98b9c7359160ef85194c1d25a16
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a4\a415b98b9c7359160ef85194c1d25a16
+    projectPath: Library\Artifacts\a4\a415b98b9c7359160ef85194c1d25a16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\a4\a463756480878462642a7e92910e0155
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a4\a463756480878462642a7e92910e0155
+    projectPath: Library\Artifacts\a4\a463756480878462642a7e92910e0155
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a5\a568be8cee8183a752f623220fc484ae
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a5\a568be8cee8183a752f623220fc484ae
+    projectPath: Library\Artifacts\a5\a568be8cee8183a752f623220fc484ae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a6\a6874e0e208c5d206a8baecab2d63450
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a6\a6874e0e208c5d206a8baecab2d63450
+    projectPath: Library\Artifacts\a6\a6874e0e208c5d206a8baecab2d63450
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\a7\a7cf12a9ce403626263deee240fcca0c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a7\a7cf12a9ce403626263deee240fcca0c
+    projectPath: Library\Artifacts\a7\a7cf12a9ce403626263deee240fcca0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\a7\a7f3ca67654ae43e392eb569fdee4730
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a7\a7f3ca67654ae43e392eb569fdee4730
+    projectPath: Library\Artifacts\a7\a7f3ca67654ae43e392eb569fdee4730
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a7\a7fc9670c641abe577acb2632a01f5b5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a7\a7fc9670c641abe577acb2632a01f5b5
+    projectPath: Library\Artifacts\a7\a7fc9670c641abe577acb2632a01f5b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a9\a9429b6f10d5d4dd7494185f0f2b515d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a9\a9429b6f10d5d4dd7494185f0f2b515d
+    projectPath: Library\Artifacts\a9\a9429b6f10d5d4dd7494185f0f2b515d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\a9\a9f5ee0bc7b8cef6c81d683d0ac946e7
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\a9\a9f5ee0bc7b8cef6c81d683d0ac946e7
+    projectPath: Library\Artifacts\a9\a9f5ee0bc7b8cef6c81d683d0ac946e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\aa\aa7643ccdda0134bbb0db7d5c5260fff
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\aa\aa7643ccdda0134bbb0db7d5c5260fff
+    projectPath: Library\Artifacts\aa\aa7643ccdda0134bbb0db7d5c5260fff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ab\ab1c37733afbbb6de4e199e7e2ee3b48
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ab\ab1c37733afbbb6de4e199e7e2ee3b48
+    projectPath: Library\Artifacts\ab\ab1c37733afbbb6de4e199e7e2ee3b48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ab\ab8098dd6169190dad651cb6e94cb6ec
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ab\ab8098dd6169190dad651cb6e94cb6ec
+    projectPath: Library\Artifacts\ab\ab8098dd6169190dad651cb6e94cb6ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ab\abf8470999b23317db14fb7089d044be
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ab\abf8470999b23317db14fb7089d044be
+    projectPath: Library\Artifacts\ab\abf8470999b23317db14fb7089d044be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ac\aceb6f7b4d5238ae2b08b6f0ca2fd45f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ac\aceb6f7b4d5238ae2b08b6f0ca2fd45f
+    projectPath: Library\Artifacts\ac\aceb6f7b4d5238ae2b08b6f0ca2fd45f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ad\ad042c1bfdd77b835ce95cb699e94408
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ad\ad042c1bfdd77b835ce95cb699e94408
+    projectPath: Library\Artifacts\ad\ad042c1bfdd77b835ce95cb699e94408
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ad\ad0465b3ead816b42878943c7ea14f0c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ad\ad0465b3ead816b42878943c7ea14f0c
+    projectPath: Library\Artifacts\ad\ad0465b3ead816b42878943c7ea14f0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ad\adc2de6f7c94d081b11b1494e09c29db
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ad\adc2de6f7c94d081b11b1494e09c29db
+    projectPath: Library\Artifacts\ad\adc2de6f7c94d081b11b1494e09c29db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ad\adcf15adda506feb186af66f3a850572
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ad\adcf15adda506feb186af66f3a850572
+    projectPath: Library\Artifacts\ad\adcf15adda506feb186af66f3a850572
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ae\ae189f500f717228f93c4c8f01e30320
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ae\ae189f500f717228f93c4c8f01e30320
+    projectPath: Library\Artifacts\ae\ae189f500f717228f93c4c8f01e30320
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ae\aefe96aae799a46019e3ec3e1549e32a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ae\aefe96aae799a46019e3ec3e1549e32a
+    projectPath: Library\Artifacts\ae\aefe96aae799a46019e3ec3e1549e32a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\b3\b3d8ec7fe4c14104d85b5aeaa0afc50a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b3\b3d8ec7fe4c14104d85b5aeaa0afc50a
+    projectPath: Library\Artifacts\b3\b3d8ec7fe4c14104d85b5aeaa0afc50a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\b4\b42f6e8df2ae8755e83745ca6b18d02d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b4\b42f6e8df2ae8755e83745ca6b18d02d
+    projectPath: Library\Artifacts\b4\b42f6e8df2ae8755e83745ca6b18d02d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\b4\b4a9c2935d9bf992dc3e41546ba04294
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b4\b4a9c2935d9bf992dc3e41546ba04294
+    projectPath: Library\Artifacts\b4\b4a9c2935d9bf992dc3e41546ba04294
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\b5\b5147d7344f6f2d0922df8118320943e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b5\b5147d7344f6f2d0922df8118320943e
+    projectPath: Library\Artifacts\b5\b5147d7344f6f2d0922df8118320943e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\b5\b55f7073ee0608b515759d91565f7caa
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b5\b55f7073ee0608b515759d91565f7caa
+    projectPath: Library\Artifacts\b5\b55f7073ee0608b515759d91565f7caa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\b5\b5632ba57a65e11c2f38a3548f1b5ae7
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b5\b5632ba57a65e11c2f38a3548f1b5ae7
+    projectPath: Library\Artifacts\b5\b5632ba57a65e11c2f38a3548f1b5ae7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\b5\b5b6c32dcdf62dd98349a745eb898e06
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b5\b5b6c32dcdf62dd98349a745eb898e06
+    projectPath: Library\Artifacts\b5\b5b6c32dcdf62dd98349a745eb898e06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\b5\b5baac9baf76877c50274ecdfda1be73
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b5\b5baac9baf76877c50274ecdfda1be73
+    projectPath: Library\Artifacts\b5\b5baac9baf76877c50274ecdfda1be73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\b8\b8838e9f40eb72afb8f0b25871e03e0d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\b8\b8838e9f40eb72afb8f0b25871e03e0d
+    projectPath: Library\Artifacts\b8\b8838e9f40eb72afb8f0b25871e03e0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ba\ba0f313f37814da31284d1fc9c4a7b34
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ba\ba0f313f37814da31284d1fc9c4a7b34
+    projectPath: Library\Artifacts\ba\ba0f313f37814da31284d1fc9c4a7b34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ba\ba49d7936805d6031adcd71ff46092b2
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ba\ba49d7936805d6031adcd71ff46092b2
+    projectPath: Library\Artifacts\ba\ba49d7936805d6031adcd71ff46092b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ba\babeec61f2fb93a51e68a525d8a20e30
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ba\babeec61f2fb93a51e68a525d8a20e30
+    projectPath: Library\Artifacts\ba\babeec61f2fb93a51e68a525d8a20e30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\bb\bb537e308a490b0fbd8a2f40238109dd
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\bb\bb537e308a490b0fbd8a2f40238109dd
+    projectPath: Library\Artifacts\bb\bb537e308a490b0fbd8a2f40238109dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\bc\bc79b90f0770262ef190b30e4f25e060
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\bc\bc79b90f0770262ef190b30e4f25e060
+    projectPath: Library\Artifacts\bc\bc79b90f0770262ef190b30e4f25e060
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\bd\bdaf72f5aa70f40f5c2edef836cf834f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\bd\bdaf72f5aa70f40f5c2edef836cf834f
+    projectPath: Library\Artifacts\bd\bdaf72f5aa70f40f5c2edef836cf834f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\be\bea42c458310a3894e8c7eb84793e4ae
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\be\bea42c458310a3894e8c7eb84793e4ae
+    projectPath: Library\Artifacts\be\bea42c458310a3894e8c7eb84793e4ae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\be\bea5a2d9d29aa21b48af0f074530ab26
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\be\bea5a2d9d29aa21b48af0f074530ab26
+    projectPath: Library\Artifacts\be\bea5a2d9d29aa21b48af0f074530ab26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\be\beffd78bd09250e8ade60a92f8d0cf4b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\be\beffd78bd09250e8ade60a92f8d0cf4b
+    projectPath: Library\Artifacts\be\beffd78bd09250e8ade60a92f8d0cf4b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\bf\bf1a81ee5a647ebca8d62678738a77dd
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\bf\bf1a81ee5a647ebca8d62678738a77dd
+    projectPath: Library\Artifacts\bf\bf1a81ee5a647ebca8d62678738a77dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\c1\c1133f7588d3e43abe1d911edb7ae1c7
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c1\c1133f7588d3e43abe1d911edb7ae1c7
+    projectPath: Library\Artifacts\c1\c1133f7588d3e43abe1d911edb7ae1c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\c3\c3551726d0f55fa4bbf5972eb31631c3
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c3\c3551726d0f55fa4bbf5972eb31631c3
+    projectPath: Library\Artifacts\c3\c3551726d0f55fa4bbf5972eb31631c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\c3\c39a77acc0eb062c05aaa1f3b1c85998
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c3\c39a77acc0eb062c05aaa1f3b1c85998
+    projectPath: Library\Artifacts\c3\c39a77acc0eb062c05aaa1f3b1c85998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\c4\c4016793043aa6dcb3921813f1f30d6e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c4\c4016793043aa6dcb3921813f1f30d6e
+    projectPath: Library\Artifacts\c4\c4016793043aa6dcb3921813f1f30d6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\c4\c410d012b6275374718c1bc84ebdcfc6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c4\c410d012b6275374718c1bc84ebdcfc6
+    projectPath: Library\Artifacts\c4\c410d012b6275374718c1bc84ebdcfc6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\c4\c43d6eeae1d685a49fbce0092171a661
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c4\c43d6eeae1d685a49fbce0092171a661
+    projectPath: Library\Artifacts\c4\c43d6eeae1d685a49fbce0092171a661
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\c5\c552f6a41326fdb9337fa1fdd0df2d66
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c5\c552f6a41326fdb9337fa1fdd0df2d66
+    projectPath: Library\Artifacts\c5\c552f6a41326fdb9337fa1fdd0df2d66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\c5\c5de56b5d5722bb058fd97c7506e1e84
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c5\c5de56b5d5722bb058fd97c7506e1e84
+    projectPath: Library\Artifacts\c5\c5de56b5d5722bb058fd97c7506e1e84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\c6\c6412f773ab47b81f935fb63799037a6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c6\c6412f773ab47b81f935fb63799037a6
+    projectPath: Library\Artifacts\c6\c6412f773ab47b81f935fb63799037a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    projectPath: Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\c8\c872f217015cb9c2a865286ece78e17a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\c8\c872f217015cb9c2a865286ece78e17a
+    projectPath: Library\Artifacts\c8\c872f217015cb9c2a865286ece78e17a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ca\ca1472c573174ea9ae99a5848a6d02a3
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ca\ca1472c573174ea9ae99a5848a6d02a3
+    projectPath: Library\Artifacts\ca\ca1472c573174ea9ae99a5848a6d02a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ca\ca895afb011242a9a52c4a60dd7a2f03
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ca\ca895afb011242a9a52c4a60dd7a2f03
+    projectPath: Library\Artifacts\ca\ca895afb011242a9a52c4a60dd7a2f03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\cb\cb83868da03e94b1038080cf3069eb42
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\cb\cb83868da03e94b1038080cf3069eb42
+    projectPath: Library\Artifacts\cb\cb83868da03e94b1038080cf3069eb42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ce\cee342a5e51e2f885bdfbe3f32d30ee2
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ce\cee342a5e51e2f885bdfbe3f32d30ee2
+    projectPath: Library\Artifacts\ce\cee342a5e51e2f885bdfbe3f32d30ee2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\cf\cf6bbd35392104743bd17132ff73f0f4
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\cf\cf6bbd35392104743bd17132ff73f0f4
+    projectPath: Library\Artifacts\cf\cf6bbd35392104743bd17132ff73f0f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d1\d19a7a18f627c567bc165e713ea282c9
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d1\d19a7a18f627c567bc165e713ea282c9
+    projectPath: Library\Artifacts\d1\d19a7a18f627c567bc165e713ea282c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\d1\d1e0051a2f100b05ed6acf6f6cc9e24b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d1\d1e0051a2f100b05ed6acf6f6cc9e24b
+    projectPath: Library\Artifacts\d1\d1e0051a2f100b05ed6acf6f6cc9e24b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d1\d1f605e64a01910d06cf4f696f736ac1
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d1\d1f605e64a01910d06cf4f696f736ac1
+    projectPath: Library\Artifacts\d1\d1f605e64a01910d06cf4f696f736ac1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d2\d2eaf3432291d08180d75f9091abaaeb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d2\d2eaf3432291d08180d75f9091abaaeb
+    projectPath: Library\Artifacts\d2\d2eaf3432291d08180d75f9091abaaeb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d3\d34094aa0ef529345231da8c97e25831
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d3\d34094aa0ef529345231da8c97e25831
+    projectPath: Library\Artifacts\d3\d34094aa0ef529345231da8c97e25831
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\d3\d38e6c0441bbf7b0ba59e242298e01ec
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d3\d38e6c0441bbf7b0ba59e242298e01ec
+    projectPath: Library\Artifacts\d3\d38e6c0441bbf7b0ba59e242298e01ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d4\d44045d12d9f9decbee7e523ddefad62
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d4\d44045d12d9f9decbee7e523ddefad62
+    projectPath: Library\Artifacts\d4\d44045d12d9f9decbee7e523ddefad62
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d4\d4f87151d8faaf7e113f1cdb8b44e144
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d4\d4f87151d8faaf7e113f1cdb8b44e144
+    projectPath: Library\Artifacts\d4\d4f87151d8faaf7e113f1cdb8b44e144
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\d6\d6b69fcd1004def34f688917638d34d2
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d6\d6b69fcd1004def34f688917638d34d2
+    projectPath: Library\Artifacts\d6\d6b69fcd1004def34f688917638d34d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\d7\d7ab6d9225e85e85fed8630927889dca
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d7\d7ab6d9225e85e85fed8630927889dca
+    projectPath: Library\Artifacts\d7\d7ab6d9225e85e85fed8630927889dca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\d8\d85a168648433918da2da80733b73420
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\d8\d85a168648433918da2da80733b73420
+    projectPath: Library\Artifacts\d8\d85a168648433918da2da80733b73420
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\da\daca01bb64de691533bcae14bd323712
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\da\daca01bb64de691533bcae14bd323712
+    projectPath: Library\Artifacts\da\daca01bb64de691533bcae14bd323712
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\db\db3ab97f91e7cb33c077279e7a93be38
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\db\db3ab97f91e7cb33c077279e7a93be38
+    projectPath: Library\Artifacts\db\db3ab97f91e7cb33c077279e7a93be38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\db\db45ee6adf4230fd01d1e7811f636942
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\db\db45ee6adf4230fd01d1e7811f636942
+    projectPath: Library\Artifacts\db\db45ee6adf4230fd01d1e7811f636942
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\db\db628fef1b740c854a61d125cbed3415
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\db\db628fef1b740c854a61d125cbed3415
+    projectPath: Library\Artifacts\db\db628fef1b740c854a61d125cbed3415
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\db\dbd19b754e84cda35c859a1079910c9d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\db\dbd19b754e84cda35c859a1079910c9d
+    projectPath: Library\Artifacts\db\dbd19b754e84cda35c859a1079910c9d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\dc\dc981d249acf8f3bd830d313981fce6f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\dc\dc981d249acf8f3bd830d313981fce6f
+    projectPath: Library\Artifacts\dc\dc981d249acf8f3bd830d313981fce6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\de\deb6d059670bc42235a93367b3fc258b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\de\deb6d059670bc42235a93367b3fc258b
+    projectPath: Library\Artifacts\de\deb6d059670bc42235a93367b3fc258b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\df\dfa22f120e80bf18559ce10213ea4d68
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\df\dfa22f120e80bf18559ce10213ea4d68
+    projectPath: Library\Artifacts\df\dfa22f120e80bf18559ce10213ea4d68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\df\dfad627cfe922b890c9223880d49bf3e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\df\dfad627cfe922b890c9223880d49bf3e
+    projectPath: Library\Artifacts\df\dfad627cfe922b890c9223880d49bf3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e0\e0d0b54e60bead7842c2c97e05ba08dc
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e0\e0d0b54e60bead7842c2c97e05ba08dc
+    projectPath: Library\Artifacts\e0\e0d0b54e60bead7842c2c97e05ba08dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e2\e209ca8f6fdd0397e65fbb1dfbdb3a7a
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e2\e209ca8f6fdd0397e65fbb1dfbdb3a7a
+    projectPath: Library\Artifacts\e2\e209ca8f6fdd0397e65fbb1dfbdb3a7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e2\e2b5fd232479b893eda84a7d858b1482
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e2\e2b5fd232479b893eda84a7d858b1482
+    projectPath: Library\Artifacts\e2\e2b5fd232479b893eda84a7d858b1482
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e4\e40a47db9fbb354fd65b757ae65b250c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e4\e40a47db9fbb354fd65b757ae65b250c
+    projectPath: Library\Artifacts\e4\e40a47db9fbb354fd65b757ae65b250c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\e5\e5a5b389cf5d43b54f6f888efa1e11a6
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e5\e5a5b389cf5d43b54f6f888efa1e11a6
+    projectPath: Library\Artifacts\e5\e5a5b389cf5d43b54f6f888efa1e11a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e5\e5a632496974815980969d0c67cd4e46
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e5\e5a632496974815980969d0c67cd4e46
+    projectPath: Library\Artifacts\e5\e5a632496974815980969d0c67cd4e46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\e6\e6bfb89e8b84a24433b0368eb659f9dc
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e6\e6bfb89e8b84a24433b0368eb659f9dc
+    projectPath: Library\Artifacts\e6\e6bfb89e8b84a24433b0368eb659f9dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e6\e6edf987cf45beb3c72ebe875fc769a3
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e6\e6edf987cf45beb3c72ebe875fc769a3
+    projectPath: Library\Artifacts\e6\e6edf987cf45beb3c72ebe875fc769a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\e7\e73ebce2241401c3e067093fa33a5ea4
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e7\e73ebce2241401c3e067093fa33a5ea4
+    projectPath: Library\Artifacts\e7\e73ebce2241401c3e067093fa33a5ea4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e7\e788b9fe40b8b40b04bbeb9c6ae20353
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e7\e788b9fe40b8b40b04bbeb9c6ae20353
+    projectPath: Library\Artifacts\e7\e788b9fe40b8b40b04bbeb9c6ae20353
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e7\e7e73b78bb3711f3bdbe7bfee0e43d48
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e7\e7e73b78bb3711f3bdbe7bfee0e43d48
+    projectPath: Library\Artifacts\e7\e7e73b78bb3711f3bdbe7bfee0e43d48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\e9\e9c200271d278559b7a2b978b404110b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\e9\e9c200271d278559b7a2b978b404110b
+    projectPath: Library\Artifacts\e9\e9c200271d278559b7a2b978b404110b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\eb\eb26d833c07462e7959d2a35f97c448f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\eb\eb26d833c07462e7959d2a35f97c448f
+    projectPath: Library\Artifacts\eb\eb26d833c07462e7959d2a35f97c448f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ec\ec9678dccfbbf077eda552ee46324120
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ec\ec9678dccfbbf077eda552ee46324120
+    projectPath: Library\Artifacts\ec\ec9678dccfbbf077eda552ee46324120
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ed\ed28352e106a4368575c0e3a7c34a788
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ed\ed28352e106a4368575c0e3a7c34a788
+    projectPath: Library\Artifacts\ed\ed28352e106a4368575c0e3a7c34a788
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ed\ed8b85bb0ae4a676bc8e217bc6901512
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ed\ed8b85bb0ae4a676bc8e217bc6901512
+    projectPath: Library\Artifacts\ed\ed8b85bb0ae4a676bc8e217bc6901512
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ed\edb8a43ed77715fa56045f07ea78e2b0
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ed\edb8a43ed77715fa56045f07ea78e2b0
+    projectPath: Library\Artifacts\ed\edb8a43ed77715fa56045f07ea78e2b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\ed\edecad850d9423a4d2cd21098755732f
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ed\edecad850d9423a4d2cd21098755732f
+    projectPath: Library\Artifacts\ed\edecad850d9423a4d2cd21098755732f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\f0\f01a00175787148f10e0af4eabdb1d8e
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f0\f01a00175787148f10e0af4eabdb1d8e
+    projectPath: Library\Artifacts\f0\f01a00175787148f10e0af4eabdb1d8e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f0\f02ff01af32f5d81e5751ca63877a67b
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f0\f02ff01af32f5d81e5751ca63877a67b
+    projectPath: Library\Artifacts\f0\f02ff01af32f5d81e5751ca63877a67b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f1\f155b598b8cfe1271e7eb8f3b44eefad
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f1\f155b598b8cfe1271e7eb8f3b44eefad
+    projectPath: Library\Artifacts\f1\f155b598b8cfe1271e7eb8f3b44eefad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f1\f1775c7f0e00c628f3c800a9187a6ab3
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f1\f1775c7f0e00c628f3c800a9187a6ab3
+    projectPath: Library\Artifacts\f1\f1775c7f0e00c628f3c800a9187a6ab3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\f1\f198d960bf594a8d6a0a9aa80ab81fe5
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f1\f198d960bf594a8d6a0a9aa80ab81fe5
+    projectPath: Library\Artifacts\f1\f198d960bf594a8d6a0a9aa80ab81fe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\f1\f1d59c1f14f11a53a939b0baa773b39c
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f1\f1d59c1f14f11a53a939b0baa773b39c
+    projectPath: Library\Artifacts\f1\f1d59c1f14f11a53a939b0baa773b39c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f3\f3a959f7ce64aadff44f986c33e17c71
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f3\f3a959f7ce64aadff44f986c33e17c71
+    projectPath: Library\Artifacts\f3\f3a959f7ce64aadff44f986c33e17c71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f3\f3bcf05a9e5cd12812fff3bcab64808d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f3\f3bcf05a9e5cd12812fff3bcab64808d
+    projectPath: Library\Artifacts\f3\f3bcf05a9e5cd12812fff3bcab64808d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\f4\f441a26521bf2e9c53f16ef9a998cd31
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f4\f441a26521bf2e9c53f16ef9a998cd31
+    projectPath: Library\Artifacts\f4\f441a26521bf2e9c53f16ef9a998cd31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\f4\f4c2fb8c6319c8e2f65ac685044a2ef4
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f4\f4c2fb8c6319c8e2f65ac685044a2ef4
+    projectPath: Library\Artifacts\f4\f4c2fb8c6319c8e2f65ac685044a2ef4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f5\f55a060db6a57c532c17e384b9448e47
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f5\f55a060db6a57c532c17e384b9448e47
+    projectPath: Library\Artifacts\f5\f55a060db6a57c532c17e384b9448e47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f6\f60e6c86e99d4f2435d00870da1a51f9
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f6\f60e6c86e99d4f2435d00870da1a51f9
+    projectPath: Library\Artifacts\f6\f60e6c86e99d4f2435d00870da1a51f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f8\f8f13402584926e35b1bdba0134fe696
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f8\f8f13402584926e35b1bdba0134fe696
+    projectPath: Library\Artifacts\f8\f8f13402584926e35b1bdba0134fe696
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\f9\f960f4aeeae227ed3a814247326ee629
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\f9\f960f4aeeae227ed3a814247326ee629
+    projectPath: Library\Artifacts\f9\f960f4aeeae227ed3a814247326ee629
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\fa\fa1dd1c2e5693e2cf899b076fcb9152d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\fa\fa1dd1c2e5693e2cf899b076fcb9152d
+    projectPath: Library\Artifacts\fa\fa1dd1c2e5693e2cf899b076fcb9152d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\fc\fc83e9e0f328a43a227f24ccd8f6048d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\fc\fc83e9e0f328a43a227f24ccd8f6048d
+    projectPath: Library\Artifacts\fc\fc83e9e0f328a43a227f24ccd8f6048d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\Artifacts\fe\fe5a6d43178eb395c5e831cd4b108e4d
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\fe\fe5a6d43178eb395c5e831cd4b108e4d
+    projectPath: Library\Artifacts\fe\fe5a6d43178eb395c5e831cd4b108e4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\fe\fe70d3cff38fb1ccde08ab7478389dcd
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\fe\fe70d3cff38fb1ccde08ab7478389dcd
+    projectPath: Library\Artifacts\fe\fe70d3cff38fb1ccde08ab7478389dcd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ff\ff048dcf63314aebf56c2b971ad53533
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ff\ff048dcf63314aebf56c2b971ad53533
+    projectPath: Library\Artifacts\ff\ff048dcf63314aebf56c2b971ad53533
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\Artifacts\ff\ff8bdc90b1e626742c86fb34b60868b8
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\Artifacts\ff\ff8bdc90b1e626742c86fb34b60868b8
+    projectPath: Library\Artifacts\ff\ff8bdc90b1e626742c86fb34b60868b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game\Library\CurrentLayout-default.dwlt
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\EditorInstance.json
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\InspectorExpandedItems.asset
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+    projectPath: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\SceneVisibilityState.asset
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.InputSystem.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.InputSystem.dll
+    projectPath: Library\ScriptAssemblies\Unity.InputSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.InputSystem.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.InputSystem.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InputSystem.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Polybrush.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Polybrush.dll
+    projectPath: Library\ScriptAssemblies\Unity.Polybrush.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Polybrush.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Polybrush.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Polybrush.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Polybrush.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Polybrush.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Polybrush.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Polybrush.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Polybrush.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Polybrush.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Csg.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Csg.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Csg.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Csg.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.KdTree.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.KdTree.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.KdTree.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Poly2Tri.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Stl.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.ProBuilder.Stl.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.ProBuilder.Stl.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ProBuilder.Stl.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Settings.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Settings.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Settings.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\ShaderCache\2\27ac86ea4a1664bfdde35aaf4d51d935.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\2\27ac86ea4a1664bfdde35aaf4d51d935.bin
+    projectPath: Library\ShaderCache\2\27ac86ea4a1664bfdde35aaf4d51d935.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\4\4b038604eeba826488cd07f00ab317aa.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\4\4b038604eeba826488cd07f00ab317aa.bin
+    projectPath: Library\ShaderCache\4\4b038604eeba826488cd07f00ab317aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\5\54a6b6ae2eb4768e3b9d1ba56fb5a972.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\5\54a6b6ae2eb4768e3b9d1ba56fb5a972.bin
+    projectPath: Library\ShaderCache\5\54a6b6ae2eb4768e3b9d1ba56fb5a972.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\6\659e28beacef68f07143a0d61c3d54b0.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\6\659e28beacef68f07143a0d61c3d54b0.bin
+    projectPath: Library\ShaderCache\6\659e28beacef68f07143a0d61c3d54b0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\6\6bdb2899939c4864e0053da1b4ed962d.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\6\6bdb2899939c4864e0053da1b4ed962d.bin
+    projectPath: Library\ShaderCache\6\6bdb2899939c4864e0053da1b4ed962d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\9\9beb9576400004e07e2b14eab4605d9b.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\9\9beb9576400004e07e2b14eab4605d9b.bin
+    projectPath: Library\ShaderCache\9\9beb9576400004e07e2b14eab4605d9b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\b\b48c177555837cb0c0a84cbee0f90f4a.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\b\b48c177555837cb0c0a84cbee0f90f4a.bin
+    projectPath: Library\ShaderCache\b\b48c177555837cb0c0a84cbee0f90f4a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\b\bed47ebee5807c4de00be712d5b44bb9.bin
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\b\bed47ebee5807c4de00be712d5b44bb9.bin
+    projectPath: Library\ShaderCache\b\bed47ebee5807c4de00be712d5b44bb9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\SourceAssetDB
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\StateCache\Hierarchy\4c969a-253f9642b5e980b428.json
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\StateCache\Hierarchy\4c969a-253f9642b5e980b428.json
+    projectPath: Library\StateCache\Hierarchy\4c969a-253f9642b5e980b428.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\StateCache\Hierarchy\4c969a-81187335bb2ce7744b.json
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\StateCache\Hierarchy\4c969a-81187335bb2ce7744b.json
+    projectPath: Library\StateCache\Hierarchy\4c969a-81187335bb2ce7744b.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\StateCache\Hierarchy\4c969a-fd68d2c833024db4fa.json
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\StateCache\Hierarchy\4c969a-fd68d2c833024db4fa.json
+    projectPath: Library\StateCache\Hierarchy\4c969a-fd68d2c833024db4fa.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Library\StateCache\SceneView\cc2798-mainStage.json
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Library\StateCache\SceneView\cc2798-mainStage.json
+    projectPath: Library\StateCache\SceneView\cc2798-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game\Temp\UnityLockfile
+    fullPath: D:\other\unity\CS4555GameDevProject\Game\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
