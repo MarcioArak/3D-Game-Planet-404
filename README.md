@@ -1,6 +1,10 @@
-# 3D-Game-Planet-404-
-Survial RPG
+# Planet-404
+3D Game, Survial RPG
 
+## Table of Contents
+* [Developers](#developers)
+
+<a id="developers"></a>
 ### Developers
 * Marcio Arakaki: Main coder, built game mechanics and gameplay
 * Micky Chan: World and level builder, sound
