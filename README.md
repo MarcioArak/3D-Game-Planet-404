@@ -5,6 +5,17 @@ Survial RPG
 * Marcio Arakaki: Main coder, built game mechanics and gameplay
 * Micky Chan: World and level builder, sound
 
+[Trailer](https://www.youtube.com/watch?v=pDrs2tVm3lU)
+[Gameplay](https://www.youtube.com/watch?v=A2mDxGsIQ0M)
+
+## Description
+You are a space explorer who crash landed on a planet where you must survive and find materials to fix your ship, while defending your ship from potential hostile forces and investigating the mystery of why other ships keep disappearing around this planet
+
+## Story
+You are a space explorer who, after hearing information of a mysterious location where ships disappeared, goes to investigate . Flying closer to the location, you discover that it is an unmarked planet. While near the planet, Your ship starts acting strange and eventually loses all power which forces you to make a crash landing onto the planet itself. You survive and come to the conclusion that you must survive and find ship parts from the other ships that went missing to fix up your ship. To do so, you will be scavenging the planet for supplies and exploring the planet to find what you need.
+	Aside from surviving on the planet, there is the mystery as to why your ship and all the other missing ships. While you try to repair your ship, you must also investigate the reason as to why you and many others crashed in the first place. Figuring out the reason for these crashes is important as it will prevent you from crashing again when you fully repair the ship. While investigating/exploring you will eventually come across natives of the planet and wildlife that may or may not be hostile. You may have to battle them or there might be chances to befriend them. Either way, you will have to survive long enough to solve the mystery of planet 404, fix your ship, and eventually leave the planet.
+
+
 ## Gameplay Mechanics
 ### Battle System
 * Turned based battle system where players will choose their actions such as attack, block, items, escape. Players stats such as speed will determine their turn as well as their chances to escape.
