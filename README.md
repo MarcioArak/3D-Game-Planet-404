@@ -15,7 +15,10 @@
 
 <a id="video"></a>
 [Trailer](https://www.youtube.com/watch?v=pDrs2tVm3lU)  
+Showing the beginning of the story, how the adventure starts and preview of the world
+
 [Gameplay](https://www.youtube.com/watch?v=A2mDxGsIQ0M)
+Presenting game mechanics and combat and loot system
 
 <a id="description"></a>
 ## Description
