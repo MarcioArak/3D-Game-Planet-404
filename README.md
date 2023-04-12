@@ -13,14 +13,15 @@
 * [Story](#story)
 * [Game Mechanics](#mechanics)
 
-
-
 <a id="video"></a>
 ## [Trailer](https://www.youtube.com/watch?v=pDrs2tVm3lU)  
 Showing the beginning of the story, how the adventure starts and preview of the world
 
 ## [Gameplay](https://www.youtube.com/watch?v=A2mDxGsIQ0M)  
-Presenting game mechanics and combat and loot system
+Presenting game mechanics, combat and loot system  
+
+![alt text](https://github.com/MarcioArak/3D-Game-Planet-404/blob/main/Game/Assets/Images/gameplay-gif.gif)  
+Preview
 
 <a id="description"></a>
 ## Description
