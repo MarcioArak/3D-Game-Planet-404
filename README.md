@@ -1,5 +1,5 @@
 # Planet-404
-3D Game, Survial RPG
+3D Game, Survial RPG, Turned-based combat
 
 ![alt text](https://raw.githubusercontent.com/MarcioArak/3D-Game-Planet-404-/main/Game/Assets/Images/planet404.png)
 
