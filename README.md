@@ -3,23 +3,23 @@
 
 ![alt text](https://raw.githubusercontent.com/MarcioArak/3D-Game-Planet-404-/main/Game/Assets/Images/planet404.png)
 
+## Developers
+* Marcio Arakaki: Main coder, built game mechanics and gameplay
+* Micky Chan: World and level builder, sound
+
 ## Table of Contents
-* [Developers](#developers)
 * [Trailer & Gameplay](#video)
 * [Decription](#description)
 * [Story](#story)
 * [Game Mechanics](#mechanics)
 
-<a id="developers"></a>
-### Developers
-* Marcio Arakaki: Main coder, built game mechanics and gameplay
-* Micky Chan: World and level builder, sound
+
 
 <a id="video"></a>
-[Trailer](https://www.youtube.com/watch?v=pDrs2tVm3lU)  
+## [Trailer](https://www.youtube.com/watch?v=pDrs2tVm3lU)  
 Showing the beginning of the story, how the adventure starts and preview of the world
 
-[Gameplay](https://www.youtube.com/watch?v=A2mDxGsIQ0M)  
+## [Gameplay](https://www.youtube.com/watch?v=A2mDxGsIQ0M)  
 Presenting game mechanics and combat and loot system
 
 <a id="description"></a>
